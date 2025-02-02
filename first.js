@@ -6,3 +6,6 @@ console.log(login);
 
 const payment = "payment bug fixed";
 console.log(payment);
+
+const secpay = "1234";
+console.log(secpay);
