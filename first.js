@@ -16,3 +16,4 @@ console.log(newestsystem);
 console.log(jhggyu);
 
 console.log(mann);
+console.log(ggh);
