@@ -19,3 +19,5 @@ console.log(mann);
 console.log(ggh);
 
 console.log(jhfdgd);
+
+console.log("i have fixed a bug sir!");
